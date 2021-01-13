@@ -1,0 +1,175 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Yusei Magic', sans-serif;
+    margin: 0;
+}
+.sec-heigh{
+    height: 500px;
+    margin-bottom: 4px;
+    
+
+}
+.name-heightlight{
+font-size: 50px;
+margin-left: 4%;
+}
+#name-color1{
+    color: orangered;
+}
+#name-color2{
+    color: peru;
+}
+.first-para{
+    margin-left: 4%;
+}
+.width-half{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+}
+
+.image-width{
+    width: 100%;
+   
+}
+.link1{
+    text-decoration: none;
+    background-color: rosybrown;
+    color: purple;
+    margin-left: 4%;
+    padding: 18px 48px;
+     border-radius: 7px;
+}
+.about{
+   
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    margin-left: 65%;
+   
+}
+li a{
+    text-decoration: none;
+}
+li{
+display:inline-block;
+float: left;
+padding: 15px;
+background-color: white;
+text-decoration: none;
+}
+nav{
+    
+    
+    height: 100px;
+    margin-bottom: 3px;   
+}
+.lorem{
+    margin-top: 25%;
+    
+    font-size: 40px;
+}
+button{
+    padding: 15px 35px;
+    background-color: darkmagenta;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 15px;
+    color: white;
+}
+.width-half1{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+    margin-top: 0;
+}
+.image-width1{
+    width: 100%;
+}
+.background-color{
+    height: 630px;
+    background-color: gainsboro;
+    margin-top: 210px;
+}
+.div-margin{
+    margin-top: 143px;
+}
+.projcet{
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    
+}
+.latest{
+    
+    color: darkcyan;
+}
+.back-color{
+    width: 30%;
+    height: 400px;
+    background-color: whitesmoke;
+    margin-left: 24px;
+    float: left;
+    border-radius: 9px;
+    
+}
+img{
+    width: 95%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.caption1{
+    margin-left: 16px;
+}
+.caption2{
+    margin-left: 16px;
+}
+.background-color2{
+    height: 600px;
+    background-color: whitesmoke;
+}
+.img-logo{
+    height: 170px;
+    width: 70%;
+    margin-left: 14%;
+}
+.logo-text1{
+    position: relative;
+}
+.logo-text{
+    position: absolute;
+    top: 50px;
+    left: 360px;
+    font-weight: 700;
+    color: white;
+    font-size: 30px;
+    align-content: center;
+}
+.logo2 a{
+    position: absolute;
+    top: 70px;
+    left: 860px;
+    font-weight: 700;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+.last-part{
+    position:absolute;
+    left: 590px;
+    font-size: 17px;
+}
+.last-part2 a{
+    position:absolute;
+    left: 560px;
+    font-size: 27px;
+    text-decoration: none;
+}
+.image-last{
+    margin: 8px;
+    width: 40px;
+   
+}
+#image-last2{
+    margin-left: 590px;
+}
